@@ -12,4 +12,4 @@ apple.discount = false
 
 console.log("fruit color:", apple.color);
 console.log("fruit price:", apple.price);
-console.log("fruit discount:", apple.discount);
+console.log("fruit discount:", apple.discount);     
