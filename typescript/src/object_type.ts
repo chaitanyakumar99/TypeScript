@@ -1,4 +1,3 @@
-
 const apple: { color: string, price: number, discount: boolean } = {
     color: 'red',
     price: 55,
